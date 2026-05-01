@@ -1,0 +1,40 @@
+# ===============================================================
+# .gitignore — Platform Explorers IT Support Ticketing System
+# ===============================================================
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Log files
+*.log
+
+# Local working files (not part of submission)
+/drafts/
+/scratch/
+/local-notes/
+
+# Mermaid live editor exports (if any)
+mermaid-export.html
+*.mmd.bak
