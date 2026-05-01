@@ -1,5 +1,7 @@
 # Section 4 — Key Stakeholders
 
+## Setting the Distinction Clearly
+
 A common error in junior consulting work is treating *roles* and *stakeholders* as synonyms. They are not, and getting this wrong leads to predictable project failures.
 
 **Roles** describe **who uses the system** — defined by the functions they perform inside it. I covered roles in Section 3.
