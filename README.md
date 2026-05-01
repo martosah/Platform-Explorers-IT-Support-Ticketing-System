@@ -4,6 +4,19 @@
 
 ---
 
+## 📌 Project Status
+
+| | |
+|---|---|
+| **Status** | ✅ Complete — Phase 1 design and specification submitted |
+| **Phase** | Phase 1 (Design and Specification) |
+| **Build** | Phase 2 — to follow as a separate engagement |
+| **Last Updated** | April 2026 |
+
+This repository is the **Phase 1 deliverable**: a complete solution design including business analysis, requirements, acceptance criteria, and data model. The Phase 2 build (Power Platform implementation) is intentionally out of scope and would be delivered as a follow-on engagement once this design is reviewed and signed off.
+
+---
+
 ## About This Project
 
 This repository documents my end-to-end design work for an IT Support Ticketing System for a fictional mid-to-large regulated enterprise — **TechCare Solutions** — that currently handles 200+ IT support requests weekly through email and phone, with no centralised system in place.
@@ -73,3 +86,43 @@ Finally, I now have working fluency in ITIL 4 vocabulary — Incident vs. Servic
 ---
 
 ## Repository Structure
+
+```
+Platform-Explorers-IT-Support-Ticketing-System/
+│
+├── README.md                                ← You are here
+├── LICENSE                                  ← MIT License
+│
+├── 01-Use-Case-and-Domain/                  ← What and why
+├── 02-Business-Scenario/                    ← TechCare's pain points
+├── 03-Roles-in-the-Solution/                ← Six core ITIL-aligned roles
+├── 04-Key-Stakeholders/                     ← Power/Interest stakeholder map
+├── 05-Business-Requirements/                ← 50 FRs + 14 NFRs
+├── 06-Acceptance-Criteria/                  ← 199 acceptance criteria
+└── 07-Entity-Relationship-Diagram/          ← The data model
+```
+
+---
+
+## Project Context
+
+| | |
+|---|---|
+| **Programme** | Platform Explorers Cohort 2 |
+| **Track** | Power Platform |
+| **Use Case** | IT Support Ticket System (Week 2-3) |
+| **Author** | [Martins Osahon Osimen](https://github.com/martosah) |
+| **Phase** | Phase 1 — Design and Specification |
+| **Framework** | ITIL 4 |
+
+---
+
+## Acknowledgements
+
+Thanks to the **Platform Explorers** programme and to the cohort coaches — **Juan Ojochemi Idowu, Mathew Ede, Rachel Irabor, Sarah Anueyiagu, Church Ephraim, Thomas Okuya, and Adewale Yusuf** — for designing and running this learning experience. The cohort framing pushed me to treat this as a real consulting engagement rather than an academic exercise, which made the work substantially more meaningful.
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
